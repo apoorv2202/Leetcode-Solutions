@@ -217,6 +217,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -296,4 +298,28 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
