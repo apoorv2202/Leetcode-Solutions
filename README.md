@@ -264,6 +264,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | [0020-valid-parentheses](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -286,6 +287,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -294,6 +296,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,4 +325,5 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
