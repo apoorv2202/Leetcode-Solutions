@@ -223,6 +223,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Array
 |  |
 | ------- |
@@ -266,6 +267,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | [0345-reverse-vowels-of-a-string](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Enumeration
@@ -340,4 +342,8 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
