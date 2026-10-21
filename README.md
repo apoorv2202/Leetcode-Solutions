@@ -221,6 +221,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
@@ -228,6 +229,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -345,5 +347,6 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
