@@ -230,6 +230,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -295,6 +296,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Stack
@@ -314,6 +316,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
