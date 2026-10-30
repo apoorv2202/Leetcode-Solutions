@@ -228,6 +228,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -353,6 +354,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
