@@ -223,6 +223,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
 ## Array
@@ -242,6 +243,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -357,4 +359,8 @@ If you find the repository useful, feel free to ⭐ the repository.
 | [0046-permutations](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0784-letter-case-permutation) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
