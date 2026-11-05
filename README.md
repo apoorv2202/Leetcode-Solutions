@@ -236,6 +236,7 @@ If you find the repository useful, feel free to ⭐ the repository.
 | [0238-product-of-array-except-self](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -363,4 +364,8 @@ If you find the repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/apoorv1812/Leetcode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
